@@ -3,3 +3,4 @@ feature 2 add
 feature 3 add 
 
 func 1 added
+func 2 added
